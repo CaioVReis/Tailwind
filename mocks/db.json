@@ -1,0 +1,38 @@
+   {
+
+  "products" : [
+    {
+      "id": 1,
+      "name": "Note 11",
+      "href": "#",
+      "imageSrc": "https://i.zst.com.br/thumbs/12/3f/30/-557286865.jpg",
+      "price": "R$ 1.800",
+      "color": "Preto"
+    },
+  
+    {
+        "id": 2,
+        "name": "Iphone 13 Pro",
+        "href": "#",
+        "imageSrc": "https://i.zst.com.br/thumbs/12/2b/3a/-14428294.jpg",
+        "price": "R$ 9.300",
+        "color": "Branco"
+    },
+    {
+        "id": 3,
+        "name": "S22 Ultra",
+        "href": "#",
+        "imageSrc": "https://cdn.shopify.com/s/files/1/0326/0291/4952/products/S22-Ultra-green_img1.jpg?v=1644570959",
+        "price": "R$ 9.500",
+        "color": "Verde"
+    },
+    {
+        "id": 4,
+        "name": "MotoG200",
+        "href": "#",
+        "imageSrc": "https://files.tecnoblog.net/wp-content/uploads/2021/11/motorola-moto-g200-2-1060x596.jpg",
+        "price": "2.300",
+        "color": "azul"
+  
+    }
+]}
